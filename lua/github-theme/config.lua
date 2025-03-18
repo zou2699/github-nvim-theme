@@ -163,6 +163,7 @@ M.module_names = {
   'gitgutter',
   'gitsigns',
   'indent_blankline',
+  'indent_snacks',
   'lsp_semantic_tokens',
   'lsp_trouble',
   'mini',
